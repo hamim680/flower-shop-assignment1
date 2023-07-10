@@ -10,12 +10,14 @@
 }
 .first-div{
     height: 400px;
-    width: 1272px;
+    width: 1265px;
     background-color: pink;
     display: flex;
     margin-right: 200px;
-    justify-content: left;
+    justify-content: center;
     padding: 100px 0px 0px 150px;
+    background-position: center;
+    margin: auto;
    
 }
 .btn{
@@ -52,7 +54,8 @@
     background-color: pink;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    margin-bottom: 0px;}
+    margin-bottom: 0px;
+}
 .flower5{
         padding: 60px;
         height: 200px;
@@ -86,4 +89,71 @@
     gap: 30px;
     text-align: center;
 
+}
+.middle2{
+    background-color: plum;
+    height: 300px;
+    width: 1415px;
+    background-position: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+.picture8{
+    height: 280px;
+    width: 200px;
+
+}
+.images2{
+    text-align: center;
+    
+}
+.content2{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.rectangle3{
+    padding: 10px;
+    height: 200px;
+    width: 180px;
+    margin-bottom: 0px;
+
+}
+.rectangle4{
+    padding: 10px;
+    height: 200px;
+    width: 180px;
+    margin-bottom: 0px;
+
+}
+.rectangle5{
+    padding: 10px;
+    height: 200px;
+    width: 180px;
+    margin-bottom: 0px;
+
+}
+.rectangle6{
+    padding: 10px;
+    height: 200px;
+    width: 180px;
+    margin-bottom: 0px;
+
+}
+.last-image{
+    
+   text-align: center;
+   padding: 50px 50px 0px 50px;
+   align-items: center;
+   background-image: url("./Flower Asset/Rectangle 9.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 10px;
+   height: 250px;
+   border-radius: 5px;
+   background-position: center;
 }
