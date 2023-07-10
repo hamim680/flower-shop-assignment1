@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading-tag1{
+    padding: 20px;
+}
+.paragraph1{
+    padding: 20px;
+}
+.first-div{
+    height: 400px;
+    width: 1272px;
+    background-color: pink;
+    display: flex;
+    margin-right: 200px;
+    justify-content: left;
+    padding: 100px 0px 0px 150px;
+   
+}
+.btn{
+    padding:10px;
+    margin-left: 20px;
+    background-color: rgb(246, 79, 107);
+    border: 0;
+    color: white;
+    border-radius: 5px;
+}
+.poddo{
+    height: 400px;
+    width: 250px;
+    margin-right: 0px;
+    padding-left: 10px;
+    
+}
+.div-two{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.images{
+    padding: 70px;
+    display: flex;
+    margin-right: 10px;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.flower6{
+    padding: 60px;
+    height: 200px;
+    background-color: pink;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-bottom: 0px;}
+.flower5{
+        padding: 60px;
+        height: 200px;
+        background-color: rgb(128, 222, 224);
+        border-radius: 300px 300px 0px 0px;
+        background: rgba(60, 201, 211, 0.15);
+        margin-bottom: 0px;}
+.flower7 {
+            padding: 60px;
+            height: 200px;
+            background-color: rgb(155, 231, 174);
+            border-radius: 300px 300px 0px 0px;
+            background: rgba(52, 227, 105, 0.15);
+            margin-bottom: 0px;}
+    
+
+.underline{
+    padding-left: 60px;
+    margin-top: 0px;
+}
+.middle{
+    background-color: #2727270D;
+    width: 800px;
+    height: 80px;
+    justify-content: center;
+    background-position: center;
+    padding: 80px;
+    margin: auto;
+    border-radius: 8px;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+
+}
