@@ -152,8 +152,23 @@
    background-image: url("./Flower Asset/Rectangle 9.png");
    background-repeat: no-repeat;
    background-size: cover;
-   margin-top: 10px;
+   margin: auto;
    height: 250px;
    border-radius: 5px;
    background-position: center;
+}
+.footer{
+    background-color: black;
+    margin: auto;
+    height: 250px;
+    width: 1415px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.ful{
+    color: hotpink;
 }
